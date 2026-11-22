@@ -1,1 +1,1 @@
-Aenderung von B
+Aenderung von A und B
